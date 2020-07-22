@@ -1,0 +1,14 @@
+Stars Creation : Pycodestyle (PEP8): Total errors and warnings: 1
+
+Ludo:
+Filename: Pycodestyle (PEP8): Total errors and warnings:
+main.py: 4
+ludo_board: 205
+score_board: 130
+houses.py: 83
+game.py: 184
+players.py: 309
+dummies.py: 40
+
+
+
